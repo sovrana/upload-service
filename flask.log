@@ -1,0 +1,10 @@
+nohup: ignoring input
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://158.220.81.23:5000
+[33mPress CTRL+C to quit[0m
+158.220.81.23 - - [01/Dec/2024 19:40:48] "POST /uploads HTTP/1.1" 200 -
+127.0.0.1 - - [01/Dec/2024 19:41:10] "POST /uploads HTTP/1.1" 200 -
